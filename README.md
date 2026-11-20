@@ -2,7 +2,7 @@
 
 **Data Scientist & Machine Learning Engineer** focused on predictive modeling, explainable ML, and automated data pipelines.
 
-* **Enterprise Data & Pipeline Automation:** **Data Analyst (Data Engineering & ML Pipelines)** at **CDK Global** — engineering automated ETL workflows and statistical data validation at **99.9%+** data quality. Built automated SQL skip-query pipelines (**40 hours/month saved**) and Python data-prep automation (**reducing per-store processing from 1 hour to 2 minutes**).
+* **Enterprise Data & Pipeline Automation:** **Data Analyst (Data Science & Engineering)** at **CDK Global** — engineering automated ETL workflows and statistical data validation at **99.9%+** data quality. Built automated SQL skip-query pipelines (**40 hours/month saved**) and Python data-prep automation (**reducing per-store processing from 1 hour to 2 minutes**).
 * **Applied Data Science:** Designing supervised ML models with structured feature engineering, hyperparameter tuning, and **SHAP** explainability to turn complex datasets into clear business decisions.
 * **Production ML Engineering:** Shipping reproducible, containerized microservices — from **PostgreSQL/Parquet** pipelines to **FastAPI** inference backed by **Docker**, **pytest**, and **GitHub Actions CI**.
 * **Open to:** Data Scientist, Machine Learning Engineer, and Applied ML roles.
